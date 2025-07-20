@@ -2,7 +2,7 @@
 
 These are 3 of the many short assigments I've done using a Raspberry Pi, all coded in Python.
 
-Email.py: Connects to a database hosted in Hostinger, depending on the status of the presence sensor, it sends the data to said database and sends an email telling that there was movement detected and turns LEDs.
+Email.py: Connects to a database hosted in Hostinger, depending on the status of the ultrasonic motion sensor, it sends the data to said database and sends an email telling that there was movement detected and turns LEDs on.
 
 RGBUltra.py: Using a common cathode LED, changes the colors of said LED depending on the distance detected by said sensor, and sends the data to a database hosted in Hostinger.
 
